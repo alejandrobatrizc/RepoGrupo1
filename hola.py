@@ -1,1 +1,1 @@
-print("Primera versión: saludo inicial")
+print("Versión 2: ¡Hola, mundo!")
